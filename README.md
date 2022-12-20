@@ -1,11 +1,11 @@
 
 <h1>Rushabh Gunjal</h1>
 <p><b>Software Developer </b><br>Apps that improving lives<p>
-<div align="center"><img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47oarhdsphpwghhykeq0rm2ocavf2uczes1bmdlioj&rid=giphy.gif&ct=g" align ="center" width="40%"></img>
+<div align="center"><img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47oarhdsphpwghhykeq0rm2ocavf2uczes1bmdlioj&rid=giphy.gif&ct=g" align ="center" width="30%"></img>
 </div>
 <div align="center">
   <br>
-  <a href="www.linkedin.com/in/rushabh-rajkumar-g-93b268234">
+  <a href="https://www.linkedin.com/in/rushabh-rajkumar-g-93b268234/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></img>
   </a>
 <br>
@@ -47,11 +47,15 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gunjalrushabh&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gunjalrushabh&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FF8100&sideNums=00FF12&sideLabels=FF8100&border=FF8100)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjalrushabh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+### :writing_hand: Blog Posts :
 
 <!---
 gunjalrushabh/gunjalrushabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
