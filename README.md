@@ -17,6 +17,8 @@
 </h1>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+### :sunglasses: About me : 
+
 - 👋 Hi, I’m @gunjalrushabh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
