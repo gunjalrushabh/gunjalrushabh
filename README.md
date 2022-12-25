@@ -52,10 +52,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gunjalrushabh&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FF8100&sideNums=00FF12&sideLabels=FF8100&border=FF8100)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjalrushabh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjalrushabh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
 
 ### :writing_hand: Blog Posts :
 
