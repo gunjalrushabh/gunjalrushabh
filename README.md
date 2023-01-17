@@ -1,6 +1,7 @@
 <h1>I'm Rushabh Gunjal</h1>
 
-
+### :sunglasses: About me : 
+<h3>Software Engineer  <br>Apps that improving lives </h3>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
   
 <div align="center"><img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47oarhdsphpwghhykeq0rm2ocavf2uczes1bmdlioj&rid=giphy.gif&ct=g" align ="center" width="30%"></img>
@@ -17,8 +18,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-### :sunglasses: About me : 
-<h3>Software Engineer  <br>Apps that improving lives </h3>
+
 
 
 - 🌱 I’m currently learning **Advanced Java,DotNet 7.0 Core**
