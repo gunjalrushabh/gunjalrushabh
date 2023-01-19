@@ -87,6 +87,9 @@
 
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjalrushabh&layout=compact)](https://github.com/gunjalrushabh/github-readme-stats)
+
   
   
 
