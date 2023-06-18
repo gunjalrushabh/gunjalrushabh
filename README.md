@@ -1,5 +1,6 @@
 # 💫 About Me:
-Software Developer<br>CDAC'ian
+## Software Developer 
+## CDAC'ian
 
 
 ## 🌐 Socials:
